@@ -1,0 +1,13 @@
+C:\Users\Vincentas\Desktop\KTU\4 pusmetis\PKT\ACID-cpp\ACIDCompilerC#\CompilerCS\CompilerCS\bin\Debug\netcoreapp3.1\CompilerCS.exe
+C:\Users\Vincentas\Desktop\KTU\4 pusmetis\PKT\ACID-cpp\ACIDCompilerC#\CompilerCS\CompilerCS\bin\Debug\netcoreapp3.1\CompilerCS.deps.json
+C:\Users\Vincentas\Desktop\KTU\4 pusmetis\PKT\ACID-cpp\ACIDCompilerC#\CompilerCS\CompilerCS\bin\Debug\netcoreapp3.1\CompilerCS.runtimeconfig.json
+C:\Users\Vincentas\Desktop\KTU\4 pusmetis\PKT\ACID-cpp\ACIDCompilerC#\CompilerCS\CompilerCS\bin\Debug\netcoreapp3.1\CompilerCS.runtimeconfig.dev.json
+C:\Users\Vincentas\Desktop\KTU\4 pusmetis\PKT\ACID-cpp\ACIDCompilerC#\CompilerCS\CompilerCS\bin\Debug\netcoreapp3.1\CompilerCS.dll
+C:\Users\Vincentas\Desktop\KTU\4 pusmetis\PKT\ACID-cpp\ACIDCompilerC#\CompilerCS\CompilerCS\bin\Debug\netcoreapp3.1\CompilerCS.pdb
+C:\Users\Vincentas\Desktop\KTU\4 pusmetis\PKT\ACID-cpp\ACIDCompilerC#\CompilerCS\CompilerCS\obj\Debug\netcoreapp3.1\CompilerCS.csprojAssemblyReference.cache
+C:\Users\Vincentas\Desktop\KTU\4 pusmetis\PKT\ACID-cpp\ACIDCompilerC#\CompilerCS\CompilerCS\obj\Debug\netcoreapp3.1\CompilerCS.AssemblyInfoInputs.cache
+C:\Users\Vincentas\Desktop\KTU\4 pusmetis\PKT\ACID-cpp\ACIDCompilerC#\CompilerCS\CompilerCS\obj\Debug\netcoreapp3.1\CompilerCS.AssemblyInfo.cs
+C:\Users\Vincentas\Desktop\KTU\4 pusmetis\PKT\ACID-cpp\ACIDCompilerC#\CompilerCS\CompilerCS\obj\Debug\netcoreapp3.1\CompilerCS.csproj.CoreCompileInputs.cache
+C:\Users\Vincentas\Desktop\KTU\4 pusmetis\PKT\ACID-cpp\ACIDCompilerC#\CompilerCS\CompilerCS\obj\Debug\netcoreapp3.1\CompilerCS.dll
+C:\Users\Vincentas\Desktop\KTU\4 pusmetis\PKT\ACID-cpp\ACIDCompilerC#\CompilerCS\CompilerCS\obj\Debug\netcoreapp3.1\CompilerCS.pdb
+C:\Users\Vincentas\Desktop\KTU\4 pusmetis\PKT\ACID-cpp\ACIDCompilerC#\CompilerCS\CompilerCS\obj\Debug\netcoreapp3.1\CompilerCS.genruntimeconfig.cache
