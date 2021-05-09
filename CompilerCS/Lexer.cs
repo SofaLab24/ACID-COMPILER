@@ -10,14 +10,14 @@ namespace CompilerCS
     {
         private string FileName;
         private List<string> codeLines;
-        private List<List<Tuple<int, string>>> output;
+        public List<List<Tuple<int, string>>> Output;
         private TokenEnumerator Tokens;
 
         public Lexer(string fileName)
         {
             FileName = fileName;
             codeLines = File.ReadAllText(fileName).Split(';', StringSplitOptions.RemoveEmptyEntries).ToList();
-            output = new List<List<Tuple<int, string>>>();
+            Output = new List<List<Tuple<int, string>>>();
             Tokens = new TokenEnumerator();
             ExecuteTasks();
         }
@@ -54,10 +54,8 @@ namespace CompilerCS
                         }
                     }
                 }
-                output.Add(lexedLine);
+                Output.Add(lexedLine);
             }
-
-            Console.WriteLine(output.Count()); //for debugging
         }
     }
 }
